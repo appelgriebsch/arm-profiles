@@ -3,3 +3,4 @@ NetworkManager.service
 bluetooth.service
 tlp.service
 zswap-arm.service
+gdm.service
