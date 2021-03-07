@@ -12,6 +12,7 @@ man-pages
 man-db
 zswap-arm
 
+
 # Sound, video and bluetooth
 pavucontrol
 pulseaudio-alsa
@@ -28,6 +29,7 @@ libva-v4l2-request
 
 # Display Manager
 gdm
+xf86-video-fbdev
 
 # Network
 avahi
